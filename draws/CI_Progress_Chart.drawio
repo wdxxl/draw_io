@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T08:13:32.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="0yplFZohUAid2R6mMLdU" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T07:11:05.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZyC8kZMMyIuPz93a0XP4" version="14.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="_YNqAXAVylyeZjbfj3ao-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-9" target="_YNqAXAVylyeZjbfj3ao-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-5" target="orChRWVJSXvlEu_Cx0ng-2">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-5" target="orChRWVJSXvlEu_Cx0ng-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-5" value="init: Release生成 &lt;br&gt;v0.6.0" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -49,7 +49,7 @@
           <mxGeometry x="1350" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-17" value="美餐CI/CD 流程建议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="80" width="320" height="120" as="geometry" />
+          <mxGeometry x="50" y="110" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-20" target="_YNqAXAVylyeZjbfj3ao-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
         <mxCell id="_YNqAXAVylyeZjbfj3ao-25" value="analysis:&amp;nbsp;&lt;br&gt;测试 等/验证" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="815" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-27" target="orChRWVJSXvlEu_Cx0ng-5">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-27" target="orChRWVJSXvlEu_Cx0ng-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-27" value="sonar:&lt;br&gt;代码质量/测试报告" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -90,7 +90,7 @@
         <mxCell id="_YNqAXAVylyeZjbfj3ao-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-31" target="_YNqAXAVylyeZjbfj3ao-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YNqAXAVylyeZjbfj3ao-31" value="������ Build Tag 2 ECR &lt;br&gt;Prod&lt;br&gt;v0.6.0" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_YNqAXAVylyeZjbfj3ao-31" value="������Build Tag 2 ECR &lt;br&gt;Prod&lt;br&gt;v0.6.0" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="670" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-33" value="&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;手工 Argo CD&lt;/span&gt;&lt;br style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;发布到Sandbox&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -109,34 +109,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-45" value="&amp;nbsp; &amp;nbsp; Gitlab Group创建" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="325" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="325" y="710" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-47" target="_YNqAXAVylyeZjbfj3ao-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-47" value="&amp;nbsp; &amp;nbsp; ECR文件夹目录创建" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="525" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="525" y="710" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-49" target="_YNqAXAVylyeZjbfj3ao-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-49" value="&amp;nbsp; &amp;nbsp; Argo 项目发布目录创建 - Gilab 发布repo需要" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="725" y="710" width="150" height="80" as="geometry" />
+          <mxGeometry x="725" y="710" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-51" value="&amp;nbsp; &amp;nbsp; Argo 创建项目" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="925" y="710" width="120" height="80" as="geometry" />
+          <mxGeometry x="925" y="710" width="145" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_YNqAXAVylyeZjbfj3ao-53" value="&lt;h1&gt;Ops操作&lt;/h1&gt;&lt;p&gt;Go_Release /&amp;nbsp;&lt;span&gt;Kaniko 上传到 各自的ECR中&lt;/span&gt;&lt;/p&gt;&lt;p&gt;EKS - 创建Gitlab Runner 调整资源&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_YNqAXAVylyeZjbfj3ao-53" value="&lt;h1&gt;Ops&lt;/h1&gt;&lt;p&gt;Go_Release /&amp;nbsp;&lt;span&gt;Kaniko 上传到 各自的ECR中&lt;/span&gt;&lt;/p&gt;&lt;p&gt;EKS - 创建Gitlab Runner 调整资源&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="55" y="870" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_YNqAXAVylyeZjbfj3ao-54" value="&lt;h1&gt;Ops操作&lt;/h1&gt;&lt;p&gt;针对微服务创建对应的 Group和项目，方便 脚手架项目提交，Ops设置一些 变量给Release做操作&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="315" y="830" width="190" height="150" as="geometry" />
+        <mxCell id="_YNqAXAVylyeZjbfj3ao-54" value="&lt;h1&gt;Ops&lt;/h1&gt;&lt;p&gt;针对微服务创建对应的 Group和项目，方便 脚手架项目提交，Ops设置一些 变量给Release做操作&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310" y="870" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_YNqAXAVylyeZjbfj3ao-55" value="&lt;h1&gt;Ops操作&lt;/h1&gt;&lt;p&gt;针对项目 创建 ECR目录 Sandbox/Prod都需要&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="545" y="830" width="190" height="150" as="geometry" />
+        <mxCell id="_YNqAXAVylyeZjbfj3ao-55" value="&lt;h1&gt;Ops&lt;/h1&gt;&lt;p&gt;针对项目 创建 ECR目录 Sandbox/Prod都需要&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="535" y="870" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_YNqAXAVylyeZjbfj3ao-56" value="&lt;h1&gt;Ops操作&lt;/h1&gt;&lt;p&gt;注册Repo到 Argo Sandbox &amp;amp; Argo QA &amp;amp; Argo Prod&amp;nbsp;&lt;/p&gt;&lt;p&gt;创建 Application 针对同一个服务&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="785" y="830" width="190" height="150" as="geometry" />
+        <mxCell id="_YNqAXAVylyeZjbfj3ao-56" value="&lt;h1&gt;Ops&lt;/h1&gt;&lt;p&gt;注册Repo到 Argo Sandbox &amp;amp; Argo QA &amp;amp; Argo Prod&amp;nbsp;&lt;/p&gt;&lt;p&gt;创建 Application 针对同一个服务&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="750" y="870" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_YNqAXAVylyeZjbfj3ao-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_YNqAXAVylyeZjbfj3ao-59" target="_YNqAXAVylyeZjbfj3ao-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -144,16 +144,16 @@
         <mxCell id="_YNqAXAVylyeZjbfj3ao-59" value="&amp;nbsp; &amp;nbsp; Gitlab-Runner Prod" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="75" y="775" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-1" value="当前Master v0.5.0" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-1" value="当前Master v0.5.0" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="260" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-2" target="_YNqAXAVylyeZjbfj3ao-7">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-2" target="_YNqAXAVylyeZjbfj3ao-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-2" value="lint: 可省略" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-2" value="lint: 可省略" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-5" target="orChRWVJSXvlEu_Cx0ng-8">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-5" target="orChRWVJSXvlEu_Cx0ng-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1210" y="450" />
@@ -161,30 +161,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-14" value="后续的 Tag 触发 CI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="orChRWVJSXvlEu_Cx0ng-13">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-14" value="后续的 Tag 触发 CI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="orChRWVJSXvlEu_Cx0ng-13" vertex="1" connectable="0">
           <mxGeometry x="-0.0413" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-5" value="&lt;span&gt;������ release:&lt;br&gt;&lt;/span&gt;&lt;span&gt;ChangeLog生成 创建 gitlab Tag v0.6.0&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-5" value="&lt;span&gt;������ release:&lt;br&gt;&lt;/span&gt;&lt;span&gt;ChangeLog生成 创建 gitlab Tag v0.6.0&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1150" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-7" value="当前Master v0.6.0" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="430" width="120" height="80" as="geometry" />
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-7" value="当前Master v0.6.0" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="430" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-8" target="orChRWVJSXvlEu_Cx0ng-9">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-8" target="orChRWVJSXvlEu_Cx0ng-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-8" value="&lt;span&gt;&lt;br&gt;Release 触发阶段&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-8" value="&lt;span&gt;&lt;br&gt;Release 触发阶段&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-9" target="_YNqAXAVylyeZjbfj3ao-29">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-9" target="_YNqAXAVylyeZjbfj3ao-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-9" target="_YNqAXAVylyeZjbfj3ao-31">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="orChRWVJSXvlEu_Cx0ng-9" target="_YNqAXAVylyeZjbfj3ao-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orChRWVJSXvlEu_Cx0ng-9" value="init: Release生成&amp;nbsp;&lt;br&gt;v0.6.0" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="orChRWVJSXvlEu_Cx0ng-9" value="init: Release生成&amp;nbsp;&lt;br&gt;v0.6.0" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
